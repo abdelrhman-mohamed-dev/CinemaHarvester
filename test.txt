@@ -10,3 +10,5 @@
 /html/body/div[4]/div[2]/div/div/div[2]/div/div[1]/text()
 boody
 kVtSnaJ7X0kmZiFN
+
+MONGODB_URI=mongodb+srv://boody:kVtSnaJ7X0kmZiFN@cluster0.glc7k2j.mongodb.net/?retryWrites=true&w=majority
