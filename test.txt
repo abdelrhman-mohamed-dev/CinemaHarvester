@@ -1,0 +1,12 @@
+//*[@id="postList"]/div[1]
+
+//*[@id="postList"]/div[2]
+
+//*[@id="postList"]/div[1]
+
+#postList > div:nth-child(1)
+#postList > div:nth-child(1)
+
+/html/body/div[4]/div[2]/div/div/div[2]/div/div[1]/text()
+boody
+kVtSnaJ7X0kmZiFN
